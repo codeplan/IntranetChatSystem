@@ -415,9 +415,8 @@ public class OrbitClientSocket
 
 	tmpOutput.println("/SERVERMESSAGE This server is incompatible "
 			  + "with Orbit Chat 1.x.  Please upgrade your "
-			  + "client by visiting http://visopsys.org/andy/"
-			  + "Orbit/");
-	tmpOutput.println("/SERVERMESSAGE You are being disconnected");
+			  + "client by visiting https://github.com/codeplan/IntranetChatSystem/");
+	tmpOutput.println("/SERVERMESSAGE::: You are being disconnected");
 	tmpOutput.flush();
     }
 

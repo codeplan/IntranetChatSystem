@@ -801,7 +801,7 @@ public class OrbitWindow
 			+ "connect to the same server from whence it came)\n";
 
 		errorString += "\nIf you think this is a bug, please send a "
-		    + "bug report to jamesamc@yahoo.com\n";
+		    + "bug report to www.github.com/codeplan\n";
 
 		new OrbitTextDialog(this, "Couldn't connect",
 				      errorString, 60, 15,
@@ -1177,7 +1177,7 @@ public class OrbitWindow
 
 	if (E.getSource() == menuAbout)
 	    {
-String abouttext = new String("Intranet Chatting v" + Orbit.VERSION + "\nCopyright ORBIT IT CONSULTING (P) LTD.\n\n");
+String abouttext = new String("Intranet Chatting v" + Orbit.VERSION );
 		
 		new OrbitTextDialog(this, "About Intranet Chatting", 
 				      abouttext, 60, 22,
