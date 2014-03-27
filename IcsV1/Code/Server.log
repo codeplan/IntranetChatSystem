@@ -1,0 +1,24 @@
+Reading message file
+Waiting for connections
+New user Administrator logging on at Mar 28, 2014 12:45 AM from localhost
+There are 1 users connected
+New user aa logging on at Mar 28, 2014 12:46 AM from localhost
+There are 2 users connected
+New user bb logging on at Mar 28, 2014 12:55 AM from DU-PC.local
+There are 3 users connected
+User bb disconnected at Mar 28, 2014 12:59 AM
+There are 2 users connected
+New user ll logging on at Mar 28, 2014 01:00 AM from DU-PC.local
+There are 3 users connected
+User ll disconnected at Mar 28, 2014 01:02 AM
+There are 2 users connected
+User Administrator disconnected at Mar 28, 2014 01:30 AM
+There are 1 users connected
+User aa disconnected at Mar 28, 2014 01:30 AM
+There are 0 users connected
+Server shutting down...
+No users connected
+Peak connections this session: 3
+Total connections this session: 4
+Saving user messages
+Closing log file
